@@ -1,0 +1,22 @@
+<hr> é linha horizontal (----)
+
+selecionar e apertar shift tab vai fazer vc reduzir o espaçamento do código
+
+
+ol = listas ordenadas
+ul = listas não ordenadas
+
+após usar o <a href="#" coloque a tag target="_#"> os efeitos dela são:
+_blank vai abrir o link em uma nova janela em branco
+_self vai abrri o link na janela ou frame atual(é o padrão)
+_top vai desfazer todos os frames e abrir o destino no navegador completo
+_parent igual ao top mas usa em referencia a uma janela mãe
+
+para usar o gradiente vc é obrigado a usar backgroundimage
+
+todo elemento q seja uma caixa (h1 div) use margin auto para deixar centralizada
+para texto só colocar center
+
+
+no background img no container(normalmente o fundo) a posição sempre vai ser relativa 
+e o conteudo(normalmente em cima do container) vai ser posição absolute
