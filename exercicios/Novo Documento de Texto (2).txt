@@ -20,3 +20,6 @@ para texto só colocar center
 
 no background img no container(normalmente o fundo) a posição sempre vai ser relativa 
 e o conteudo(normalmente em cima do container) vai ser posição absolute
+
+o iframe serve para criar uma janela, como se fosse um quadro (com o site dentro) da linha do
+código.
