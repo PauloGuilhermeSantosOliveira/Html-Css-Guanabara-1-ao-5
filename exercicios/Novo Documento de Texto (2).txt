@@ -23,3 +23,9 @@ e o conteudo(normalmente em cima do container) vai ser posição absolute
 
 o iframe serve para criar uma janela, como se fosse um quadro (com o site dentro) da linha do
 código.
+
+existem 2 metódos para envio de formulário, o padrão(get) normalmente para dados que não são
+sensíveis como pesquisa peso altura etc, e o post serve para esconder dados e não aparecer
+diretamente na url (não é seguro).
+
+ 
