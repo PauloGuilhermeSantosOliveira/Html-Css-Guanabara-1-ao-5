@@ -28,4 +28,4 @@ existem 2 metódos para envio de formulário, o padrão(get) normalmente para da
 sensíveis como pesquisa peso altura etc, e o post serve para esconder dados e não aparecer
 diretamente na url (não é seguro).
 
- 
+use required caso queira q um campo no forms seja obrigatório.
