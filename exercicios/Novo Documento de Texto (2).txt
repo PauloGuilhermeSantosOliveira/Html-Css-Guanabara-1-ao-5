@@ -31,3 +31,9 @@ diretamente na url (não é seguro).
 use required caso queira q um campo no forms seja obrigatório.
 toda vez que usar um input do tipo radio, sempre colocar a mesma tag de name para ambas opções
 (para conseguir selecionar apenas uma das opções).
+
+para fazer uma "div" com formulários dentro use a tag fieldset, e para ter um titulo no meio
+da linha use a tag legend
+
+quando usar o controle de envio de arquivos, não pode usar o metodo get, tem q enviar pelo
+método post, pois é algo q exige privacidade.
