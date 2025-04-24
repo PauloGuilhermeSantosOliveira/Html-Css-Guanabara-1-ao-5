@@ -29,3 +29,5 @@ sensíveis como pesquisa peso altura etc, e o post serve para esconder dados e n
 diretamente na url (não é seguro).
 
 use required caso queira q um campo no forms seja obrigatório.
+toda vez que usar um input do tipo radio, sempre colocar a mesma tag de name para ambas opções
+(para conseguir selecionar apenas uma das opções).
