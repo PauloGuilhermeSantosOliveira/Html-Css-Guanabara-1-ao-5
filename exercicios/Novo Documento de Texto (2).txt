@@ -43,3 +43,5 @@ use optgroup para agrupar coisas, como região(usado em caixas de forms)
 datalist serve para o usuário colocar na caixa algo que não esteja escrito e fica salvo na memória.
 
 o output usado com input ele apenas é demonstrado, quando vc clica em enviar não retorna nada
+
+overflow: hidden; serve para tudo q ficar pra fora da imagem ficar escondido
