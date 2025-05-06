@@ -45,3 +45,10 @@ datalist serve para o usuário colocar na caixa algo que não esteja escrito e f
 o output usado com input ele apenas é demonstrado, quando vc clica em enviar não retorna nada
 
 overflow: hidden; serve para tudo q ficar pra fora da imagem ficar escondido
+
+
+eixos(axis), o cross start se inicia do ponto inicial e desce \/, isso é vertical até o cross-end.
+já o main start se inicia no mesmo local e termina na horizontal --> como main-end
+
+o encolhimento do flex-wrap:nowrap depende do conteudo(tradução literal = não quebra)
+o flex-wrap: wrap; sempre vai quebrar para baixo em transversal 
