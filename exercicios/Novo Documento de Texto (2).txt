@@ -57,3 +57,8 @@ no flex-end o espaço em branco vai ser jogado no inicio do eixo principal
 o space-between vai colocar o primeiro item no main-start e o ultimo no main-end e o resto distrubuidos por igual
 o space-evenly será espaçamentos iguais entre todos itens
 o space-around é tipo o evenly porem fica centralizado na div
+
+o align-content: vai alinhar os elementos dentro do eixo transversal quando estão empacotados
+o justify-content: vai alinhar os itens dentro do eixo principal
+o align-itens:vai alinhar os itens dentro do eixo transversal
+
