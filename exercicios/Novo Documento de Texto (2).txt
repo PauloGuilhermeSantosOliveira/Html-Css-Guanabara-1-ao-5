@@ -63,3 +63,4 @@ o justify-content: vai alinhar os itens dentro do eixo principal
 o align-itens:vai alinhar os itens dentro do eixo transversal
 
 todo item dentro de um container em flexbox vai ter order 0
+align-self não serve para containers(pai) só serve para itens
