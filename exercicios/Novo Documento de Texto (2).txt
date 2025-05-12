@@ -64,6 +64,13 @@ o align-itens:vai alinhar os itens dentro do eixo transversal
 
 todo item dentro de um container em flexbox vai ter order 0
 align-self não serve para containers(pai) só serve para itens
+
 flex-basis é uma propriedade do CSS que define o tamanho inicial de um item
+
 para encolher no flex-box se usa flex-shrink por padrão é 1
 para aumentar se usa flex-grow por padrão é 0
+flex= flex-grow + flex-shrink + flex-basis
+
+flex: initial é a mesma coisa q dizer flex:0 1 auto
+flex: none é a mesma coisa q dizer flex: 0 0 auto (sem flexibilidade)
+flex: auto é a mesma coisa q dizer flex: 1 1 auto (flexibiliza tanto para aumentar qnt para baixar)
