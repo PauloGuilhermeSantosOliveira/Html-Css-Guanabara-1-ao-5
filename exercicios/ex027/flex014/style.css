@@ -14,7 +14,15 @@ body {
   width: 100vw;
 }
 
-header {
+p,
+h1,
+h2 {
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
+header,
+section.normal {
   padding: 20px;
 }
 
