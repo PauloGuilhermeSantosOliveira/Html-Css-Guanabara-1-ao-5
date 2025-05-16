@@ -74,3 +74,13 @@ flex= flex-grow + flex-shrink + flex-basis
 flex: initial é a mesma coisa q dizer flex:0 1 auto
 flex: none é a mesma coisa q dizer flex: 0 0 auto (sem flexibilidade)
 flex: auto é a mesma coisa q dizer flex: 1 1 auto (flexibiliza tanto para aumentar qnt para baixar)
+
+Grid Layout é como dividir uma folha em quadrados (linhas e colunas) e depois colocar as coisas (como caixas ou textos) dentro desses quadrados. Você escolhe quantas colunas e linhas quer, e o navegador organiza tudo certinho pra você.
+
+
+
+
+
+
+
+
